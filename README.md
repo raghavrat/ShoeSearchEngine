@@ -159,7 +159,7 @@ The application integrates with the SneakersAPI:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/shoe-search-engine.git
+git clone https://github.com/raghavrat/shoe-search-engine.git
 cd shoe-search-engine
 ```
 
